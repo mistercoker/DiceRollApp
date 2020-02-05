@@ -11,3 +11,4 @@ https://react-roll-dice-app.netlify.com/
 ## Design
 
 ## Tech Stack
+- React
