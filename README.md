@@ -16,5 +16,5 @@ https://react-roll-dice-app.netlify.com/
 - ReactJS
 - NPM
 - Netlify
- -Git
+- Git
 
