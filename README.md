@@ -11,4 +11,10 @@ https://react-roll-dice-app.netlify.com/
 ## Design
 
 ## Tech Stack
-- React
+- CSS3
+- JavaScript
+- ReactJS
+- NPM
+- Netlify
+ -Git
+
