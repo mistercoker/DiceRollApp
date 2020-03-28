@@ -11,6 +11,7 @@ https://react-roll-dice-app.netlify.com/
 ## Design
 
 ## Tech Stack
+- HTML
 - CSS3
 - JavaScript
 - ReactJS
